@@ -1,6 +1,6 @@
 ---
 title: "classwork3"
-author: "Nikitina Natalia"
+author: "Teslenko Denis"
 date: '24 октября 2017 г '
 output: html_document
 ---
